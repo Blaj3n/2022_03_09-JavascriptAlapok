@@ -1,0 +1,10 @@
+#kepek img {
+    width: 100%;
+}
+#kepek div {
+    flex: 0 0 33%;
+}
+#kepek {
+    display: flex;
+    flex-flow: row wrap;
+}
